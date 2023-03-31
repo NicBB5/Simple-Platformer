@@ -39,7 +39,7 @@ position = Vector2( 1556, 0 )
 shape = SubResource( 1 )
 
 [node name="Enemy" parent="." instance=ExtResource( 4 )]
-position = Vector2( 1130, 329 )
+position = Vector2( 1173, -444 )
 
 [node name="Coin" parent="." instance=ExtResource( 5 )]
 position = Vector2( 940, 333 )
